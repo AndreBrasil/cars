@@ -2,7 +2,5 @@
 title: "Home"
 ---
 
-## Welcome page
-
 Access <https://resources.github.com/whitepapers/github-and-rstudio/>.
 
