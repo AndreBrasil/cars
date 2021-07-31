@@ -1,11 +1,11 @@
 ---
 title: "Home"
 ---
-<style>
-.main-container {
-    width: 1180px;
-    max-width: unset;
-}
-</style>
+<!-- <style> -->
+<!-- .main-container { -->
+<!--     width: 1180px; -->
+<!--     max-width: unset; -->
+<!-- } -->
+<!-- </style> -->
 Access <https://resources.github.com/whitepapers/github-and-rstudio/>.
 

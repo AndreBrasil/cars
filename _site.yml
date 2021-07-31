@@ -9,5 +9,6 @@ navbar:
     href: speed-and-distance.html
 output:
   html_document:
-    theme: cosmo
+    css: "mini-default.css"  
+#    theme: cosmo
     highlight: textmate

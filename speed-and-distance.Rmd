@@ -1,12 +1,7 @@
 ---
 title: "Speed and Distance"
 ---
-<style>
-.main-container {
-    width: 1180px;
-    max-width: unset;
-}
-</style>
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -25,9 +20,12 @@ summary(cars)
 
 You can also embed plots, for example:
 
-<center> 
-<div style="align: center;"> <iframe src="https://public.tableau.com/views/OSistemaNacionaldePs-GraduaonoestadodoParan/Dashboarddocaptulo?:showVizHome=no&:embed=true" width="1150px" height="900px" frameborder="0"></iframe> </div>
-</center>
+<div style="width: 1150px;
+            position: relative;
+            left: 50%;
+            transform: translate(-50%);">
+<iframe src="https://public.tableau.com/views/OSistemaNacionaldePs-GraduaonoestadodoParan/Dashboarddocaptulo?:showVizHome=no&:embed=true" width="1150px" height="900px" frameborder="0"></iframe> 
+</div>
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
